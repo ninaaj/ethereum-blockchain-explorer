@@ -1,13 +1,3 @@
-"""
-    Christina Trotter
-    ENGR 692
-    12/8/18
-    Python 3.7.1
-
-    This is the main file
-    Run from terminal by using the command python3 w3pt.py
-"""
-
 from explr_mod import *
 global prompts
 
